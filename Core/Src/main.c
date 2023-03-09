@@ -14,8 +14,8 @@
   * If no LICENSE file comes with this software, it is provided AS-IS.
   *
   ******************************************************************************
-  */57457457457
-62364734738458468
+  */
+
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
@@ -44,7 +44,7 @@ SPI_HandleTypeDef hspi1;
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-
+//uigbuyuyguy
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
